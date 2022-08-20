@@ -18,8 +18,7 @@
 //so we have to comsider all these senario and find the max value
 //also we have to update the prefix and suffix of the array
 
-#include<bits/stdc++.h>
-#define ll long long int
+    #define ll long long int
 struct node{
         ll maxvalue;
         ll prefix,suffix,sum;
@@ -54,8 +53,8 @@ void assign(int index){
             return;
         }
         int mid=(left+right)/2;
-        build_tre(nums,left,mid,2*index+1);
-        build_tre(nums,mid+1,right,2*index+2);
+        build_tree(nums,left,mid,2*index+1);
+        build_tree(nums,mid+1,right,2*index+2);
         assign(index);
        
     }
@@ -90,4 +89,3 @@ void assign(int index){
         ans.push_back(0);
         return ans;
     }
-
