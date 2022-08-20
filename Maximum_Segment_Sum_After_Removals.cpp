@@ -4,7 +4,7 @@
 //Status: Accepted
 //Time_complexity: O(nlongn)
 //Space_complexity: O(n)
-//Submission_date: 20/12/2019
+//Submission_date: 20/08/2022
 //idea-> used segment tree to find the maximum subsegmet sum of a segment of the array
 //whenver we remove an element from the array we update the segment tree
 //we have to find maxium seb_segement sum of the array after removing an element which will lead
