@@ -3,7 +3,7 @@
 #include<unordered_map>
 using namespace std;
 
-int t=0;
+int t=0;//time is used to flatten the tree
 vector<vector<int > > tree;
 vector<int> value;
 vector<int> arr;
