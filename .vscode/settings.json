@@ -4,6 +4,9 @@
     "vector": "cpp",
     "iosfwd": "cpp",
     "iterator": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "queue": "cpp",
+    "set": "cpp",
+    "map": "cpp"
   }
 }
