@@ -1,12 +1,75 @@
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
+//ignore vs code file
+    .vscode/
+    //ignore node modules
+    node_modules/
+    //ignore .env file
+    .env
+    //ignore .env file
+    .env.example
+    //ignore .env file
+    .env.local
+    //ignore .env file
+    .env.local.example
+    //ignore .env file
+    .env.development
+    //ignore .env file
+    .env.development.example
+    //ignore .env file
+    .env.test
+    //ignore .env file
+    .env.test.example
+    //ignore .env file
+    .env.production
+    //ignore .env file
+    .env.production.example
+    //ignore .env file
+    .env.staging
+    //ignore .env file
+    .env.staging.example
+    //ignore .env file
+    .env.e2e
+    //ignore .env file
+    .env.e2e.example
+    //ignore .env file
+    .env.docker
+    //ignore .env file
+    .env.docker.example
+    //ignore .env file
+    .env.docker.local
+    //ignore .env file
+    .env.docker.local.example
+    //ignore .env file
+    .env.docker.development
+    //ignore .env file
+    .env.docker.development.example
+    //ignore .env file
+    .env.docker.test
+    //ignore .env file
+    .env.docker.test.example
+    //ignore .env file
+    .env.docker.production
+    //ignore .env file
+    .env.docker.production.example
+    //ignore .env file
+    .env.docker.staging
+    //ignore .env file
+    .env.docker.staging.example
+    //ignore .env file
+    .env.docker.e2e
+    //ignore .env file
+    .env.docker.e2e.example
+    //ignore .env file
+    .env.docker.staging
+    //ignore .env file
+    .env.docker.staging.example
+    //ignore .env file
+    .env.docker.e2e
+    //ignore .env file
+    .env.docker.e2e.example
+    //ignore .env file
+    .env.docker.staging
+    //ignore .env file
+    .env.docker.staging.example
+    //ignore .env file
+    .env.docker.e2e
+    //ignore .
